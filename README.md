@@ -1,7 +1,7 @@
 <h1 align="center">Jorge Negrete</h1>
 
 <p align="center">
-  <b>Cybersecurity · Threat Intelligence · DevSecOps</b>
+  <b>Cybersecurity · Threat Intelligence · Offensive Security</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About
 
-I build and operate honeypot infrastructure to capture real-world malware, analyze samples, and contribute IOCs to the public threat intelligence community. I also work on DevSecOps automation — integrating security scanning into CI/CD pipelines.
+I build and operate honeypot infrastructure to capture real-world malware, analyze samples, and contribute IOCs to the public threat intelligence community.
 
 ### Threat Intelligence Contributions
 
@@ -29,7 +29,6 @@ I build and operate honeypot infrastructure to capture real-world malware, analy
 |---------|-------------|
 | [honeypot](https://github.com/negrete-8/honeypot) | Multi-service honeypot — SSH, Web, Redis, Docker, PostgreSQL — with attacker scoring and C2 enumeration |
 | [threat-intelligence](https://github.com/negrete-8/threat-intelligence) | Malware analysis reports and IOCs from honeypot captures |
-| [devsecops-pipeline](https://github.com/negrete-8/devsecops-pipeline) | CI/CD pipeline integrating Gitleaks, Snyk, SonarCloud and OWASP ZAP |
 | [security-scripts](https://github.com/negrete-8/security-scripts) | OSINT and recon scripts — Nmap automation, web scraping, web spidering |
 
 ### Stack
@@ -41,12 +40,10 @@ I build and operate honeypot infrastructure to capture real-world malware, analy
 ![Nmap](https://img.shields.io/badge/Nmap-214478)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### Areas
 
 - 🍯 Honeypot design and operation
 - 🦠 Malware analysis (static, UPX unpacking, IOC extraction)
-- 🛡️ DevSecOps — SAST, DAST, SCA, secret scanning
 - 🔎 OSINT and reconnaissance automation
 - 📡 Threat intelligence reporting (MalwareBazaar, ThreatFox, VirusTotal)
