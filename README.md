@@ -1,16 +1,17 @@
-# Jorge Negrete
+# Jorge Negrete 🛡️
 
 Cybersecurity Analyst working on threat intelligence, malware analysis and honeypot operations.
 
 I operate a multi-service honeypot infrastructure on a public VPS and contribute samples and indicators of compromise to the public threat intelligence ecosystem. My work focuses on Linux malware analysis (UPX unpacking, IOC extraction, C2 mapping), blue team tooling (Wazuh EDR, active response automation) and offensive security research documented through full-chain technical writeups.
 
-### Public threat intelligence profiles
+### 🔗 Public threat intelligence profiles
 
-- MalwareBazaar — [bazaar.abuse.ch/user/38492](https://bazaar.abuse.ch/user/38492/)
-- ThreatFox — [threatfox.abuse.ch/user/97135](https://threatfox.abuse.ch/user/97135/)
-- VirusTotal — [virustotal.com/gui/user/NullBlue](https://www.virustotal.com/gui/user/NullBlue)
+- **MalwareBazaar** — [bazaar.abuse.ch/user/38492](https://bazaar.abuse.ch/user/38492/)
+- **ThreatFox** — [threatfox.abuse.ch/user/97135](https://threatfox.abuse.ch/user/97135/)
+- **VirusTotal** — [virustotal.com/gui/user/NullBlue](https://www.virustotal.com/gui/user/NullBlue)
+- **AbuseIPDB** — [abuseipdb.com/user/300501](https://www.abuseipdb.com/user/300501)
 
-### Selected work
+### 🔥 Selected work
 
 | Repository | Description |
 |------------|-------------|
@@ -21,6 +22,6 @@ I operate a multi-service honeypot infrastructure on a public VPS and contribute
 | [linux-hardening-lab](https://github.com/negrete-8/linux-hardening-lab) | Reproducible Vagrant lab: hardened SSH alongside a Cowrie honeypot. |
 | [devsecops-pipeline](https://github.com/negrete-8/devsecops-pipeline) | CI/CD pipeline integrating Gitleaks, Snyk, SonarCloud and OWASP ZAP. |
 
-### Stack
+### ⚙️ Stack
 
-Python, Bash, Linux (Debian, Ubuntu, Kali), Docker, Vagrant, Wazuh, Cowrie, OWASP ZAP, Wireshark, Nmap, MITRE ATT&CK, YARA.
+Python · Bash · Linux (Debian, Ubuntu, Kali) · Docker · Vagrant · Wazuh · Cowrie · OWASP ZAP · Wireshark · Nmap · MITRE ATT&CK · YARA
