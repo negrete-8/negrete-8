@@ -1,34 +1,34 @@
 <div align="center">
 
-# 👋 Hola, soy Jorge (NullBlue)
+# 👋 Hi, I'm Jorge
 
 ### Cybersecurity Analyst · Threat Intelligence · Honeypot Operator
 
 <p>
-  <a href="https://bazaar.abuse.ch/user/38492/"><img src="https://img.shields.io/badge/MalwareBazaar-nullblue67-blue?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
+  <a href="https://bazaar.abuse.ch/user/38492/"><img src="https://img.shields.io/badge/MalwareBazaar-Contributor-blue?style=for-the-badge" /></a>
   <a href="https://threatfox.abuse.ch/user/97135/"><img src="https://img.shields.io/badge/ThreatFox-Contributor-orange?style=for-the-badge" /></a>
-  <a href="https://www.virustotal.com/gui/user/NullBlue"><img src="https://img.shields.io/badge/VirusTotal-NullBlue-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
+  <a href="https://www.virustotal.com/gui/user/NullBlue"><img src="https://img.shields.io/badge/VirusTotal-Contributor-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-- 🛡️ **Cybersecurity Analyst** especializado en **Threat Intelligence operativa** y operación de honeypots
-- 🍯 Opero un **laboratorio honeypot multi-servicio** propio en VPS público (SSH, Web, Redis, Docker, PostgreSQL)
-- 🦠 **First submitter worldwide** de 3 muestras del kit **Outlaw/Shellbot** en MalwareBazaar
-- 📡 **70+ IOCs** publicados en ThreatFox cubriendo familias activas (`elf.perlbot`, `elf.malxmr`, `elf.dofloo`, RedTail, Mirai)
-- 🏆 Muestras validadas independientemente por el motor **THOR APT** de Florian Roth (Nextron Systems)
-- 🎓 Cursando **Máster en Ciberseguridad** — formación previa en Administración de Sistemas (ASIR)
-- 📍 Málaga, España
+- 🛡️ **Cybersecurity Analyst** focused on **operational Threat Intelligence** and honeypot operations
+- 🍯 I run my own **multi-service honeypot lab** on a public VPS (SSH, Web, Redis, Docker, PostgreSQL)
+- 🦠 **First submitter worldwide** of novel samples from the **Outlaw/Shellbot** kit on MalwareBazaar
+- 📡 Continuous IOC reporting to ThreatFox covering active malware families (`elf.perlbot`, `elf.malxmr`, `elf.dofloo`, RedTail, Mirai)
+- 🏆 Submitted samples independently validated by the **THOR APT Scanner** (Florian Roth, Nextron Systems)
+- 🎓 Currently completing a **Master's in Cybersecurity** — previously trained as a Systems Administrator (ASIR)
+- 📍 Málaga, Spain
 
 ---
 
 ## 🛠️ Skills
 
-### Lenguajes de Programación
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
-### Sistemas Operativos
+### Operating Systems
 
 <p>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge" />
 </p>
 
-### Certificaciones
+### Certifications
 
 <p>
   <img src="https://img.shields.io/badge/Fortinet_NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
@@ -111,21 +111,21 @@
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Featured Projects
 
-| Proyecto | Descripción |
-|----------|-------------|
-| 🍯 [**honeypot**](https://github.com/negrete-8/honeypot) | Infraestructura honeypot multi-servicio (SSH, Web, Redis, Docker, PostgreSQL) con auto-fetch C2 y enriquecimiento GeoIP |
-| 🦠 [**threat-intelligence**](https://github.com/negrete-8/threat-intelligence) | Análisis técnico de muestras capturadas + IOCs en formato MISP-friendly |
-| 🛡️ [**wazuh-edr-deployment**](https://github.com/negrete-8/wazuh-edr-deployment) | Despliegue end-to-end de Wazuh con Active Response automatizado |
-| ⚔️ [**pentest-writeups**](https://github.com/negrete-8/pentest-writeups) | Memoria técnica de compromiso full-chain de máquina Linux |
-| 🔐 [**linux-hardening-lab**](https://github.com/negrete-8/linux-hardening-lab) | Lab Vagrant: SSH bastionado + Cowrie honeypot |
-| 🔄 [**devsecops-pipeline**](https://github.com/negrete-8/devsecops-pipeline) | CI/CD con Gitleaks, Snyk, SonarCloud y OWASP ZAP |
+| Project | Description |
+|---------|-------------|
+| 🍯 [**honeypot**](https://github.com/negrete-8/honeypot) | Multi-service honeypot infrastructure (SSH, Web, Redis, Docker, PostgreSQL) with C2 auto-fetch and GeoIP enrichment |
+| 🦠 [**threat-intelligence**](https://github.com/negrete-8/threat-intelligence) | Technical analysis of captured malware samples and IOCs in MISP-friendly format |
+| 🛡️ [**wazuh-edr-deployment**](https://github.com/negrete-8/wazuh-edr-deployment) | End-to-end Wazuh deployment with automated Active Response |
+| ⚔️ [**pentest-writeups**](https://github.com/negrete-8/pentest-writeups) | Full-chain Linux machine compromise technical writeups |
+| 🔐 [**linux-hardening-lab**](https://github.com/negrete-8/linux-hardening-lab) | Vagrant lab: hardened SSH plus Cowrie honeypot |
+| 🔄 [**devsecops-pipeline**](https://github.com/negrete-8/devsecops-pipeline) | CI/CD pipeline integrating Gitleaks, Snyk, SonarCloud and OWASP ZAP |
 
 ---
 
 <div align="center">
 
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile 🚀
 
 </div>
