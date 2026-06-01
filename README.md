@@ -1,16 +1,10 @@
-<div align="center">
-
 # 👋 Hi, I'm Jorge
 
 ### Cybersecurity Analyst · Threat Intelligence · Honeypot Operator
 
-<p>
-  <a href="https://bazaar.abuse.ch/user/38492/"><img src="https://img.shields.io/badge/MalwareBazaar-Contributor-blue?style=for-the-badge" /></a>
-  <a href="https://threatfox.abuse.ch/user/97135/"><img src="https://img.shields.io/badge/ThreatFox-Contributor-orange?style=for-the-badge" /></a>
-  <a href="https://www.virustotal.com/gui/user/NullBlue"><img src="https://img.shields.io/badge/VirusTotal-Contributor-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
-</p>
-
-</div>
+[![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-Contributor-blue?style=for-the-badge)](https://bazaar.abuse.ch/user/38492/)
+[![ThreatFox](https://img.shields.io/badge/ThreatFox-Contributor-orange?style=for-the-badge)](https://threatfox.abuse.ch/user/97135/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Contributor-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/user/NullBlue)
 
 ---
 
@@ -30,84 +24,66 @@
 
 ### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### Operating Systems
 
-<p>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Threat Intelligence & Malware Analysis
 
-<p>
-  <img src="https://img.shields.io/badge/MalwareBazaar-darkred?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ThreatFox-D72E2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YARA-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UPX-FF6F00?style=for-the-badge" />
-</p>
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-darkred?style=for-the-badge)
+![ThreatFox](https://img.shields.io/badge/ThreatFox-D72E2E?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-1A1A1A?style=for-the-badge)
+![UPX](https://img.shields.io/badge/UPX-FF6F00?style=for-the-badge)
 
 ### Blue Team & Honeypot
 
-<p>
-  <img src="https://img.shields.io/badge/Wazuh_EDR-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cowrie_SSH-2A2A2A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSSEC-1e3a8a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIEM-1e3a8a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/iptables-F50057?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge" />
-</p>
+![Wazuh](https://img.shields.io/badge/Wazuh_EDR-FF6F00?style=for-the-badge)
+![Cowrie](https://img.shields.io/badge/Cowrie_SSH-2A2A2A?style=for-the-badge)
+![OSSEC](https://img.shields.io/badge/OSSEC-1e3a8a?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-1e3a8a?style=for-the-badge)
+![iptables](https://img.shields.io/badge/iptables-F50057?style=for-the-badge)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
 
 ### Offensive Security
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gobuster-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-006400?style=for-the-badge)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### DevSecOps & Containers
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge)
 
 ### Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Fortinet_NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet_FCF-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-</p>
+![Fortinet NSE3](https://img.shields.io/badge/Fortinet_NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FCF](https://img.shields.io/badge/Fortinet_FCF-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=negrete-8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negrete-8&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -124,9 +100,4 @@
 
 ---
 
-<div align="center">
-
 Thanks for visiting my profile 🚀
-
-</div>
-
