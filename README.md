@@ -1,27 +1,87 @@
 # Jorge Negrete 🛡️
 
-Cybersecurity Analyst working on threat intelligence, malware analysis and honeypot operations.
-
-I operate a multi-service honeypot infrastructure on a public VPS and contribute samples and indicators of compromise to the public threat intelligence ecosystem. My work focuses on Linux malware analysis (UPX unpacking, IOC extraction, C2 mapping), blue team tooling (Wazuh EDR, active response automation) and offensive security research documented through full-chain technical writeups.
-
-### 🔗 Public threat intelligence profiles
+### Cybersecurity Analyst · Threat Intelligence · Honeypot Operator
 
 [![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-Contributor-darkred?style=for-the-badge)](https://bazaar.abuse.ch/user/38492/)
 [![ThreatFox](https://img.shields.io/badge/ThreatFox-Contributor-orange?style=for-the-badge)](https://threatfox.abuse.ch/user/97135/)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-Contributor-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/user/NullBlue)
 [![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Reporter-1B6F9B?style=for-the-badge)](https://www.abuseipdb.com/user/300501)
 
-### 🔥 Selected work
+---
+
+## 🚀 About
+
+Cybersecurity Analyst focused on threat intelligence, malware analysis and honeypot operations. I run a multi-service honeypot infrastructure on a public VPS and contribute samples and IOCs to the public threat intelligence community.
+
+---
+
+## 🛠️ Skills
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+**Operating Systems**
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Threat Intelligence & Malware Analysis**
+
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-darkred?style=for-the-badge)
+![ThreatFox](https://img.shields.io/badge/ThreatFox-D72E2E?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-1A1A1A?style=for-the-badge)
+![UPX](https://img.shields.io/badge/UPX-FF6F00?style=for-the-badge)
+
+**Blue Team & Honeypot**
+
+![Wazuh](https://img.shields.io/badge/Wazuh_EDR-FF6F00?style=for-the-badge)
+![Cowrie](https://img.shields.io/badge/Cowrie_SSH-2A2A2A?style=for-the-badge)
+![OSSEC](https://img.shields.io/badge/OSSEC-1e3a8a?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-1e3a8a?style=for-the-badge)
+![iptables](https://img.shields.io/badge/iptables-F50057?style=for-the-badge)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
+
+**Offensive Security**
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-006400?style=for-the-badge)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**DevSecOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge)
+
+**Certifications**
+
+![Fortinet NSE3](https://img.shields.io/badge/Fortinet_NSE3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FCF](https://img.shields.io/badge/Fortinet_FCF-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+---
+
+## 🔥 Featured Work
 
 | Repository | Description |
 |------------|-------------|
-| [honeypot](https://github.com/negrete-8/honeypot) | Multi-service honeypot infrastructure with attacker scoring, automated C2 fetching and GeoIP enrichment. |
-| [threat-intelligence](https://github.com/negrete-8/threat-intelligence) | Technical analysis of captured malware samples and structured IOCs for SIEM ingestion. |
-| [wazuh-edr-deployment](https://github.com/negrete-8/wazuh-edr-deployment) | End-to-end Wazuh deployment with automated active response. |
-| [pentest-writeups](https://github.com/negrete-8/pentest-writeups) | Full-chain Linux machine compromise writeups including root cause analysis. |
-| [linux-hardening-lab](https://github.com/negrete-8/linux-hardening-lab) | Reproducible Vagrant lab: hardened SSH alongside a Cowrie honeypot. |
-| [devsecops-pipeline](https://github.com/negrete-8/devsecops-pipeline) | CI/CD pipeline integrating Gitleaks, Snyk, SonarCloud and OWASP ZAP. |
-
-### ⚙️ Stack
-
-Python · Bash · Linux (Debian, Ubuntu, Kali) · Docker · Vagrant · Wazuh · Cowrie · OWASP ZAP · Wireshark · Nmap · MITRE ATT&CK · YARA
+| [honeypot](https://github.com/negrete-8/honeypot) | Multi-service honeypot infrastructure. |
+| [threat-intelligence](https://github.com/negrete-8/threat-intelligence) | Captured malware analysis and IOC reports. |
+| [wazuh-edr-deployment](https://github.com/negrete-8/wazuh-edr-deployment) | Wazuh EDR with automated active response. |
+| [pentest-writeups](https://github.com/negrete-8/pentest-writeups) | Linux machine compromise writeups. |
+| [linux-hardening-lab](https://github.com/negrete-8/linux-hardening-lab) | Vagrant lab with hardened SSH and Cowrie. |
+| [devsecops-pipeline](https://github.com/negrete-8/devsecops-pipeline) | CI/CD with Gitleaks, Snyk, SonarCloud and ZAP. |
