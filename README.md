@@ -6,10 +6,10 @@ I operate a multi-service honeypot infrastructure on a public VPS and contribute
 
 ### 🔗 Public threat intelligence profiles
 
-- **MalwareBazaar** — [bazaar.abuse.ch/user/38492](https://bazaar.abuse.ch/user/38492/)
-- **ThreatFox** — [threatfox.abuse.ch/user/97135](https://threatfox.abuse.ch/user/97135/)
-- **VirusTotal** — [virustotal.com/gui/user/NullBlue](https://www.virustotal.com/gui/user/NullBlue)
-- **AbuseIPDB** — [abuseipdb.com/user/300501](https://www.abuseipdb.com/user/300501)
+[![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-Contributor-darkred?style=for-the-badge)](https://bazaar.abuse.ch/user/38492/)
+[![ThreatFox](https://img.shields.io/badge/ThreatFox-Contributor-orange?style=for-the-badge)](https://threatfox.abuse.ch/user/97135/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Contributor-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/user/NullBlue)
+[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Reporter-1B6F9B?style=for-the-badge)](https://www.abuseipdb.com/user/300501)
 
 ### 🔥 Selected work
 
