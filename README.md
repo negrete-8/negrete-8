@@ -11,7 +11,9 @@
 
 ## 🚀 About
 
-Cybersecurity Analyst focused on threat intelligence, malware analysis and honeypot operations. I run a multi-service honeypot infrastructure on a public VPS and contribute samples and IOCs to the public threat intelligence community.
+I run live honeypot infrastructure that captures real-world malware, which I reverse, analyse and report to public threat intelligence feeds. My work covers the full loop — capturing and dissecting Linux malware, building detection with Wazuh, and documenting offensive techniques through hands-on writeups.
+
+**Focus:** malware analysis · detection engineering · honeypot operations
 
 ---
 
@@ -31,21 +33,21 @@ Cybersecurity Analyst focused on threat intelligence, malware analysis and honey
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Threat Intelligence & Malware Analysis**
+**Malware Analysis & Forensics**
 
-![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-darkred?style=for-the-badge)
-![ThreatFox](https://img.shields.io/badge/ThreatFox-D72E2E?style=for-the-badge)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-8B0000?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-4B0082?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-2E2E2E?style=for-the-badge)
+![IOC Extraction](https://img.shields.io/badge/IOC_Extraction-006400?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
 ![YARA](https://img.shields.io/badge/YARA-1A1A1A?style=for-the-badge)
-![UPX](https://img.shields.io/badge/UPX-FF6F00?style=for-the-badge)
 
 **Blue Team & Honeypot**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh_EDR-FF6F00?style=for-the-badge)
 ![Cowrie](https://img.shields.io/badge/Cowrie_SSH-2A2A2A?style=for-the-badge)
-![OSSEC](https://img.shields.io/badge/OSSEC-1e3a8a?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-1e3a8a?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-1B3A5C?style=for-the-badge)
 ![iptables](https://img.shields.io/badge/iptables-F50057?style=for-the-badge)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
 
@@ -53,10 +55,10 @@ Cybersecurity Analyst focused on threat intelligence, malware analysis and honey
 
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-006400?style=for-the-badge)
-![ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-7B0000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 **DevSecOps & Infrastructure**
 
@@ -79,9 +81,9 @@ Cybersecurity Analyst focused on threat intelligence, malware analysis and honey
 
 | Repository | Description |
 |------------|-------------|
-| [honeypot](https://github.com/negrete-8/honeypot) | Multi-service honeypot infrastructure. |
-| [threat-intelligence](https://github.com/negrete-8/threat-intelligence) | Captured malware analysis and IOC reports. |
-| [wazuh-edr-deployment](https://github.com/negrete-8/wazuh-edr-deployment) | Wazuh EDR with automated active response. |
-| [pentest-writeups](https://github.com/negrete-8/pentest-writeups) | Linux machine compromise writeups. |
-| [linux-hardening-lab](https://github.com/negrete-8/linux-hardening-lab) | Vagrant lab with hardened SSH and Cowrie. |
-| [devsecops-pipeline](https://github.com/negrete-8/devsecops-pipeline) | CI/CD with Gitleaks, Snyk, SonarCloud and ZAP. |
+| [threat-intelligence](https://github.com/negrete-8/threat-intelligence) | Malware analysis reports and structured IOCs from honeypot captures. |
+| [honeypot](https://github.com/negrete-8/honeypot) | Multi-service honeypot with attacker scoring and automated C2 fetching. |
+| [wazuh-edr-deployment](https://github.com/negrete-8/wazuh-edr-deployment) | Wazuh EDR deployment with automated active response. |
+| [pentest-writeups](https://github.com/negrete-8/pentest-writeups) | Full-chain Linux compromise writeups with root cause analysis. |
+| [linux-hardening-lab](https://github.com/negrete-8/linux-hardening-lab) | Vagrant lab: hardened SSH alongside a Cowrie honeypot. |
+| [devsecops-pipeline](https://github.com/negrete-8/devsecops-pipeline) | CI/CD pipeline with Gitleaks, Snyk, SonarCloud and OWASP ZAP. |
